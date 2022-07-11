@@ -1,5 +1,5 @@
 # Stress-Detector
->**Procedure**
+>##Procedure
 1. Emotion Recongition- model training
 2. Getting Vieos frame-by-frame using OpenCV
 3. Calculation stress levels using eyebrow and lip movements
